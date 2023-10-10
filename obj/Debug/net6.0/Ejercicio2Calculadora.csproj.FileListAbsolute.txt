@@ -1,0 +1,14 @@
+C:\Users\csi22-jzarcia\source\repos\Ejercicio2Calculadora\bin\Debug\net6.0\Ejercicio2Calculadora.exe
+C:\Users\csi22-jzarcia\source\repos\Ejercicio2Calculadora\bin\Debug\net6.0\Ejercicio2Calculadora.deps.json
+C:\Users\csi22-jzarcia\source\repos\Ejercicio2Calculadora\bin\Debug\net6.0\Ejercicio2Calculadora.runtimeconfig.json
+C:\Users\csi22-jzarcia\source\repos\Ejercicio2Calculadora\bin\Debug\net6.0\Ejercicio2Calculadora.dll
+C:\Users\csi22-jzarcia\source\repos\Ejercicio2Calculadora\bin\Debug\net6.0\Ejercicio2Calculadora.pdb
+C:\Users\csi22-jzarcia\source\repos\Ejercicio2Calculadora\obj\Debug\net6.0\Ejercicio2Calculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\csi22-jzarcia\source\repos\Ejercicio2Calculadora\obj\Debug\net6.0\Ejercicio2Calculadora.AssemblyInfoInputs.cache
+C:\Users\csi22-jzarcia\source\repos\Ejercicio2Calculadora\obj\Debug\net6.0\Ejercicio2Calculadora.AssemblyInfo.cs
+C:\Users\csi22-jzarcia\source\repos\Ejercicio2Calculadora\obj\Debug\net6.0\Ejercicio2Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\csi22-jzarcia\source\repos\Ejercicio2Calculadora\obj\Debug\net6.0\Ejercicio2Calculadora.dll
+C:\Users\csi22-jzarcia\source\repos\Ejercicio2Calculadora\obj\Debug\net6.0\refint\Ejercicio2Calculadora.dll
+C:\Users\csi22-jzarcia\source\repos\Ejercicio2Calculadora\obj\Debug\net6.0\Ejercicio2Calculadora.pdb
+C:\Users\csi22-jzarcia\source\repos\Ejercicio2Calculadora\obj\Debug\net6.0\Ejercicio2Calculadora.genruntimeconfig.cache
+C:\Users\csi22-jzarcia\source\repos\Ejercicio2Calculadora\obj\Debug\net6.0\ref\Ejercicio2Calculadora.dll
