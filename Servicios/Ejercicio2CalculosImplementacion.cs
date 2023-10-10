@@ -27,7 +27,7 @@ namespace Ejercicio2Calculadora.Servicios
         }
 
         /// <summary>
-        /// Metodo que Metodo que pregunta y guarda el primer nuemro
+        /// Metodo que pregunta y guarda el segundo nuemro
         /// jzg - 101029
         /// </summary>
         /// <returns></returns>
@@ -42,7 +42,11 @@ namespace Ejercicio2Calculadora.Servicios
 
         }
 
-
+        /// <summary>
+        /// Metodo que pregunta y suma los numeros
+        /// jzg - 101029
+        /// </summary>
+        /// <returns></returns>
         public void suma() 
         {
             int num1, num2, resultado;
@@ -54,6 +58,11 @@ namespace Ejercicio2Calculadora.Servicios
             Console.WriteLine(resultado);
         }
 
+        /// <summary>
+        /// Metodo que pregunta y resta los numeros
+        /// jzg - 101029
+        /// </summary>
+        /// <returns></returns>
         public void resta()
         {
             int num1, num2, resultado;
@@ -65,6 +74,11 @@ namespace Ejercicio2Calculadora.Servicios
             Console.WriteLine(resultado);
         }
 
+        /// <summary>
+        /// Metodo que pregunta y multiplica los numeros
+        /// jzg - 101029
+        /// </summary>
+        /// <returns></returns>
         public void multiplicacion()
         {
             int num1, num2, resultado;
@@ -76,6 +90,11 @@ namespace Ejercicio2Calculadora.Servicios
             Console.WriteLine(resultado);
         }
 
+        /// <summary>
+        /// Metodo que pregunta y divide los numeros
+        /// jzg - 101029
+        /// </summary>
+        /// <returns></returns>
         public void division()
         {
             int num1, num2, resultado;

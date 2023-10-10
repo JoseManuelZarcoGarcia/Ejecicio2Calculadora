@@ -8,7 +8,11 @@ namespace Ejercicio2Calculadora.Servicios
 {
     internal interface Ejercicio2MenuInterfaz
     {
-
+        /// <summary>
+        /// Llamada al metodo que implementa el menu
+        /// jzg - 101023
+        /// </summary>
+        /// <returns></returns>
         public int implementacionMenu();
 
 
